@@ -1,2 +1,2 @@
 # Jwy_RESideMenu
-QQ架构，侧边栏架构
+类似QQ架构，侧边栏架构
