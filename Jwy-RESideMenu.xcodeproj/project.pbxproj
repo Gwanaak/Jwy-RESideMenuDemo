@@ -199,7 +199,7 @@
 		B29EC1381D4B4333007FDA3E /* 首页 */ = {
 			isa = PBXGroup;
 			children = (
-				B29EC1571D4B46F3007FDA3E /* Domo */,
+				B29EC1571D4B46F3007FDA3E /* Demo */,
 			);
 			path = "首页";
 			sourceTree = "<group>";
@@ -233,7 +233,7 @@
 			path = RESideMenu;
 			sourceTree = "<group>";
 		};
-		B29EC1571D4B46F3007FDA3E /* Domo */ = {
+		B29EC1571D4B46F3007FDA3E /* Demo */ = {
 			isa = PBXGroup;
 			children = (
 				B29EC1591D4B487D007FDA3E /* MessageViewController.h */,
@@ -249,7 +249,7 @@
 				B29EC1681D4B5A8A007FDA3E /* PushViewController.h */,
 				B29EC1691D4B5A8A007FDA3E /* PushViewController.m */,
 			);
-			name = Domo;
+			name = Demo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
